@@ -1,14 +1,22 @@
 # Programming-in-Python
 
-# Final Project
+# Student Performance 
 
 ## 📌 Overview
-This project is a Jupyter Notebook containing [briefly describe what your project does, e.g., "an analysis of XYZ data," "a machine learning model for ABC," or "a visualization of XYZ trends"].
+This project is a Jupyter Notebook containing analysis data derived from a study on the performances of Portuguese students in maths exams1. Two datasets have been provided for this project:
+ `male_stud.csv`: contains information about the group of male students;
+ `female_stud.csv`: contains information about the group of female students.
+
+ ### Analysis and Models Used
+ - Numerical and Graphical Summaries
+ - Logistic Regression  to predict students' failure.
+ - Random Forest Regression is used to predict a student's final grade.
+ - Clustering Algorithms to identify different student groups.
 
 ## 📁 Project Structure
 - `Final Project.ipynb` - The main Jupyter Notebook.
-- `data/` *(if applicable)* - Contains dataset files.
-- `images/` *(if applicable)* - Stores output plots and images.
+- `Final Project.py` - Contains the raw code
+- `data/` - Contains dataset files.
 
 ## 🚀 Installation & Usage
 ### Prerequisites
